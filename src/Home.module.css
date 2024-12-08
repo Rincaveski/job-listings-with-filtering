@@ -1,0 +1,15 @@
+.cards {
+  padding: 5rem 0rem;
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  max-width: 1200px;
+  margin: auto;
+  width: calc(100% - 2rem);
+}
+
+@media (min-width: 768px) {
+  .cards {
+    gap: 2rem;
+  }
+}

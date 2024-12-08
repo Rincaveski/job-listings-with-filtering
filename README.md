@@ -25,6 +25,7 @@ $ npm run dev
 ```
 
 ### Configuração do ambiente
+
 Esse projeto foi feito com o Prettier e o Eslint, para manter o padrão de código, caso queira utilizar o mesmo padrão de código, instale as extensões do Prettier e do Eslint no seu editor de código.
 
 Para não precisar rodar o Prettier manualmente foi instalado a dependência do Husky e do Lint-staged, que roda o Prettier antes de cada commit.
